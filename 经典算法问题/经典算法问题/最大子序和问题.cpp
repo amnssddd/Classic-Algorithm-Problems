@@ -1,4 +1,4 @@
-//贪心算法解决最大子序和问题
+//从给定的整数序列中找到连续的一串整数（至少包含 1 个整数），要求这串整数的和是所有整数串中最大的
 #include <iostream>
 #include <vector>
 using namespace std;
